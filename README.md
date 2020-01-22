@@ -1,4 +1,4 @@
-#Heretic Shadow of the Serpent Riders 
+# Heretic Shadow of the Serpent Riders Windows 10
 
 1.Download latest GZdoom from my github repo or from https://zdoom.org/downloads
 
