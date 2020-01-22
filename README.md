@@ -9,5 +9,13 @@ C:\Program Files (x86)\Steam\steamapps\common\Heretic Shadow of the Serpent Ride
 
 4.Rename gzdoom to dosbox
 
-5.To add more authenticity if sprited monsters feel too smooth change setting in the Options>Texture Filter mode to None(trillinear)
+5.Run the game from the desktop shortcut
+
+6.In the GZDoom Welcome menu select Heretic:Shadow of the Serpent Riders
+
+7.For Video Settings Select OpenGL
+
+8.Select Don't Ask Me Again checkbox in order for the menu not to show up every time you launch the game 
+
+9.To add more authenticity if sprited monsters feel too smooth change setting in the Options>Texture Filter mode to None(trillinear)
 
