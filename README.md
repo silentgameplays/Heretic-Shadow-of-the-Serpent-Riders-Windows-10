@@ -1,4 +1,4 @@
-# heretic-in-2020-with-GZdoom
+#Heretic Shadow of the Serpent Riders 
 
 1.Download latest GZdoom from my github repo or from https://zdoom.org/downloads
 
